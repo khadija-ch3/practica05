@@ -60,8 +60,8 @@ sidebar:
 
 career-profile:
     title: About me 
-    summary: I was looking a job in my future IT, i think i had  a quit a bit of skills 
-education:
+    summary: I am Khadija , i am a student of the High school of IT ,I was looking a job in my future IT, i think i hada quit a bit of skills, I'm learning programming languages.
+     education:
     title: Education
     info:
       - degree: MSc in Computer Science
@@ -94,17 +94,17 @@ experiences:
         time: 2015 - Present
         company: Startup Hubs, San Francisco
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
+          #Describe your role here lorem ipsum dolor sit amet, consectetuer
+         #adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+          #Cum sociis natoque penatibus et magnis dis parturient montes,
+          #nascetur ridiculus mus. Donec quam felis, ultricies nec,
+          #pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+          #enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+         #error sit voluptatem accusantium doloremque laudantium, totam rem
+          #aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+          #architecto beatae vitae dicta sunt explicabo.
+           # - Bullet point
+            #- Bullet point
       - role: Senior Software Engineer
         time: 2014 - 2015
         company: Google, London
@@ -241,20 +241,20 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      #-name: Python & Django
+        #level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Java
+        level: 70%
 
       - name: Angular
         level: 98%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: XML
+        level: 60%
 
-      - name: Ruby on Rails
-        level: 85%
+     #-name: Ruby on Rails
+       # level: 85%
 
       - name: Sketch & Photoshop
         level: 60%
