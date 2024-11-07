@@ -49,13 +49,13 @@ sidebar:
     interests:
       title: Interests
       info:
-        - item:drawing.
+        - item:"drawing"
           link: 
 
-        - item: make.
+        - item: "make"
           link:
 
-        - item: cooking.
+        - item: "cooking"
           link:
 
 career-profile:
