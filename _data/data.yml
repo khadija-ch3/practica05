@@ -61,7 +61,7 @@ sidebar:
 career-profile:
     title: About me 
     summary: I am Khadija , i am a student of the High school of IT ,I was looking a job in my future IT, i think i hada quit a bit of skills, I'm learning programming languages.
-     education:
+   #  education:
     title: Education
     info:
       - degree: MSc in Computer Science
