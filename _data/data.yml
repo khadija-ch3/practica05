@@ -47,16 +47,16 @@ sidebar:
           
 
     interests:
-      title: Interests
-      info:
-        - item:"drawing"
-          link: 
+     # title: Interests
+    #  info:
+        #- item:"drawing"
+        #  link: 
 
-        - item: "make"
-          link:
+        #- item: "make"
+          #link:
 
-        - item: "cooking"
-          link:
+        #- item: "cooking"
+        #  link:
 
 career-profile:
     title: About me 
